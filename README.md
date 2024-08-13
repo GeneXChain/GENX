@@ -1,4 +1,4 @@
-[GeneXChain Project]
+# [GeneXChain Project]
 
 GeneXChain provides personalized health solutions using AI technology based on direct-to-consumer (DTC) genetic analysis, and builds a system where individuals are rewarded with tokens through a system that allows them to choose and manage their consent to the use of their data for genetic analysis results.
 
@@ -6,10 +6,11 @@ Medical consumers will have the right to own, manage, and control their medical 
 
 GeneXChain can be used as a payment method for various expenses, such as medical fees, prescription costs, and insurance premiums, within multiple institutions connected to GeneXChain. This initiative is based on the philosophy that blockchain can address the problems of the current medical information system.
 
-Website https://genexchain.io
+## Website https://genexchain.io
 
-*GeneXChain Official Community
 
-Telegram https://t.me/GeneXChain_Official
-Medium https://medium.com/@GeneXchain
-X(Twitter) https://x.com/GenXChain_DNA
+## *GeneXChain Official Community
+
+#### Telegram https://t.me/GeneXChain_Official
+#### Medium https://medium.com/@GeneXchain
+#### X(Twitter) https://x.com/GenXChain_DNA
