@@ -1,4 +1,4 @@
-[GeneXChain Project]
+# [GeneXChain Project]
 
 GeneXChain provides personalized health solutions using AI technology based on direct-to-consumer (DTC) genetic analysis, and builds a system where individuals are rewarded with tokens through a system that allows them to choose and manage their consent to the use of their data for genetic analysis results.
 
